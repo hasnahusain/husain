@@ -1,6 +1,7 @@
 <?php
 	$x = "ini adalah mid praktikum";
 	echo $x;
-        $x = "ini perubahan baru";
+        $x = "ini perubahaan baru";
 	echo $x;
 ?>
+
